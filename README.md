@@ -2,9 +2,8 @@
 
 Necesario tener instalado Java 21 y Maven.
 
-```bash
-mvnw.cmd spring-boot:run
-```
+Desde una terminal, nos posicionamos en el directorio raíz del proyecto y ejecutamos spring-boot:run.
+O, desde el propio IDE, ejecutamos la clase PruebaApplication.
 
 ## Arquitectura
 
